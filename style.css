@@ -16,18 +16,26 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-color: #E1F5FE;
 }
 
-#hr-header {
-  background-color: #E1F5FE;
+#poste {
+  font-weight: 500;
+}
+
+#prenom {
+  color: #03A9F4;
+  margin-bottom: 0;
 }
 
 .list-title {
   font-weight: 900;
 }
 
-#loisirs {
-
+.button-header {
+  color: #03A9F4 !important;
+  background-color: #343a40 !important;
+  font-weight: 700 !important;
 }
 
 .loisirs-box {
