@@ -20,7 +20,6 @@ header {
 
 #hr-header {
   background-color: #E1F5FE;
-  /* margin-left: 85%; */
 }
 
 .list-title {
@@ -28,6 +27,10 @@ header {
 }
 
 #loisirs {
+
+}
+
+.loisirs-box {
   display: flex;
   justify-content: space-evenly;
 }
