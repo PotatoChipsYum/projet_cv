@@ -7,7 +7,22 @@ header {
   color: #E1F5FE;
 }
 
+#photo {
+  display: flex;
+  align-items: center;
+}
+
+#head-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 #hr-header {
   background-color: #E1F5FE;
-  margin-right: 85%;
+  /* margin-left: 85%; */
+}
+
+.list-title {
+  font-weight: 900;
 }
