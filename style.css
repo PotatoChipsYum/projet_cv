@@ -26,3 +26,8 @@ header {
 .list-title {
   font-weight: 900;
 }
+
+#loisirs {
+  display: flex;
+  justify-content: space-evenly;
+}
