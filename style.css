@@ -1,5 +1,6 @@
 body {
   box-sizing: border-box;
+  color: #343a40;
 }
 
 
@@ -67,6 +68,33 @@ background-color: #343a40;
   color: #E1F5FE;
   width: auto;
   margin: 3rem;
+}
+
+#main {
+  background-color: #E1F5FE;
+}
+
+#desktop-header {
+  color: #343a40;
+}
+
+#desktop-header h1 {
+  font-size: 5.5rem;
+}
+
+#desktop-header p {
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+
+#prenom {
+  color: #03A9F4;
+}
+
+#desktop-ruler {
+  background-color: #03A9F4;
+  margin-right: 90%;
+  margin-top: 0;
 }
 
 @media (min-width: 992px) {
